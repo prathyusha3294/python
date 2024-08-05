@@ -1,0 +1,1 @@
+{"name": "sam", "phone": 9876543312, "email": "sam@gmail.com", "lst": [1, 2, 3, "hello"], "str": "heloo"}
